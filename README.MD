@@ -21,6 +21,6 @@
   奇数版本为BUG修正并全部通过检验的版本，官方强烈推荐使用这个版本。  
   偶数版本包含了奇数版本所有的内容，以及未被验证的BUG修复，Oracle官方表示：除非你深受BUG困扰，否则不推荐您使用这个奇数版本。  
 
-- ~~想要快速获取绿色版jdk，你可以直接下载这个项目，就可以得到绿色版jdk~~(网速太慢，我传不上去，这里下载：https://www.oracle.com/technetwork/java/jdk8-downloads-2133151.html)，然后手动执行cmd脚本赋权，配置环境变量即可食用。  
+- ~~想要快速获取绿色版jdk，你可以直接下载这个项目，就可以得到绿色版jdk~~(网速太慢，我传不上去，这里下载：[https://www.oracle.com/technetwork/java/jdk8-downloads-2133151.html](https://www.oracle.com/technetwork/java/jdk8-downloads-2133151.html)，然后手动执行cmd脚本赋权，配置环境变量即可食用。  
 - idea 指定jdk路径以后跑一下main，看看结果如何。  
 ![](file/run.png)
