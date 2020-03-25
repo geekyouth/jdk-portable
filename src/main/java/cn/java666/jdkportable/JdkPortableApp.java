@@ -6,10 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import java.util.Properties;
 
 @SpringBootApplication
-public class JdkPortableApplication {
+public class JdkPortableApp {
 	
 	public static void main(String[] args) {
-		SpringApplication.run(JdkPortableApplication.class, args);
+		SpringApplication.run(JdkPortableApp.class, args);
 		
 		System.out.println("============ 主程序启动成功，以下是jdk信息 ============");
 		Properties properties = System.getProperties();
