@@ -66,7 +66,7 @@ spring.jmx.enabled:	true
 java.specification.name:	Java Platform API Specification
 java.class.version:	52.0
 spring.beaninfo.ignore:	true
-java.library.path:	D:\0-IT-soft\0-jdk\jdk-8u181-windows-x64\jdk-8u181-windows-x64-portable\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Windows\system32;C:\Windows;C:\PROGRA~1\Java\JDK18~1.0_2\bin;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\0-IT-soft\0-cmd-path;D:\0-IT-soft\apache-maven-3.3.9-bin\bin;D:\0-IT-soft\nmap-7.70-win32\nmap-7.70;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\nodejs\;C:\Program Files\Pandoc\;D:\0-IT-soft\hadoop-2.7.2-bin-win10\bin;D:\0-IT-soft\hadoop-2.7.2-bin-win10\sbin;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\0-IT-soft\scala-2.11.8\bin;C:\Program Files\MIT\Kerberos\bin;D:\0-IT-soft\netcat-win32-1.11\netcat-1.11;D:\0-IT-soft\0-cmd-path\scrcpy-win64-v1.12.1;E:\build\findbugs-1.3.9\bin;E:\build\zlib128;C:\Program Files\CMake\bin;E:\build\protobuf-2.5.0\src;D:\0-IT-soft\BIND9.11.3.x64;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Geek\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Geek\AppData\Local\Programs\Python\Python37-32\;C:\Users\Geek\AppData\Local\Microsoft\WindowsApps;C:\Users\Geek\AppData\Roaming\npm;;.
+java.library.path:	D:\0-IT-soft\0-jdk\jdk-8u181-windows-x64\jdk-8u181-windows-x64-portable\bin;.....
 sun.jnu.encoding:	GBK
 os.name:	Windows 10
 user.variant:	
